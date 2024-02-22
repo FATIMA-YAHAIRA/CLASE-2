@@ -1,0 +1,25 @@
+*{ margin: 10px;}
+body{ 
+    font-family: tahoma; background-color: aquamarine; }
+h1
+
+{
+    border-style: dotted;
+    border-radius: 25px;
+    padding: 10px ;
+    color: rgb(202, 34, 34);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+
+}
+
+p
+{
+    color: black;
+    text-align: justify;
+    background-color: rgb(201, 167, 204);
+
+}
+img{width: 45%;}
